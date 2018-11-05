@@ -1,6 +1,8 @@
 ﻿// model classes for BMI calculator
 // GC
 
+// Edit by CE
+
 using System;
 using System.ComponentModel.DataAnnotations;
 
